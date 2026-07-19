@@ -21,9 +21,6 @@
 <ul>
   <li>удаление другого товара из корзины с модификацией запроса</li>
   <li>замена отображения сайта на изображение</li>
-  <li>User-Agent: 
-    <a href="https://drive.google.com/file/d/1y0fjUy2VvsWAY6LrSQfr5i6mjY-KsH02/view?usp=sharing">
-      скриншот
-    </a>
+  <li>User-Agent
   </li>
 </ul>
